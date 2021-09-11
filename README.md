@@ -22,4 +22,6 @@ Here are some ideas to get you started:
    
 ##
  ![Snake animation](https://github.com/gleicebranti/gleicebranti/blob/output/github-contribution-grid-snake.svg)
- 
+    
+ </div>
+  
