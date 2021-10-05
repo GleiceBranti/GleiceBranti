@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...React
 - 🤔 I’m looking for help with ...Projetos para desenvolvimento
 - 📫 How to reach me: ...gleicebrantidesouza@gmail.com
 - 😄 Pronouns: ...ela/dela
