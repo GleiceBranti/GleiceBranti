@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...React
 - 🤔 I’m looking for help with ...Projetos para desenvolvimento
-- 📫 How to reach me: ...gleicebrantidesouza@gmail.com
+- 📫 How to reach me: ...brantidesouzagleice@gmail.com
 - 😄 Pronouns: ...ela/dela
 - <div>
   <a href="https://github.com/gleicebranti">
