@@ -2,10 +2,8 @@
 
 
 Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...React
-- 🤔 I’m looking for help with ...Projetos para desenvolvimento
+- 🌱 Atualmente estou aprendendo...Java
+- 🤔 Procuro ajuda com ...Projetos para desenvolviment
 - 📫 How to reach me:brantii.gleice@gmail.com
 - 😄 Pronouns: ...ela/dela
 - <div>
