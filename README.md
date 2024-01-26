@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo...Java
 - 🤔 Procuro ajuda com ...Projetos para desenvolviment
-- 📫 How to reach me:brantii.gleice@gmail.com
+- 📫 How to reach me:gleicebranti32@gmail.com
 - 😄 Pronouns: ...ela/dela
 - <div>
   <a href="https://github.com/gleicebranti">
